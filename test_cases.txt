@@ -1,0 +1,44 @@
+#Text case 1:
+Enter student name:Sanvi 
+Enter marks (0-100):98
+
+📊 RESULT FOR SANVI :
+Marks: 98 /100
+Grade: A
+Message: Excellent! Outstanding work!🎊👏👏
+
+#Test case 2:
+Enter student name:Sanvi
+Enter marks (0-100):73
+
+📊 RESULT FOR SANVI:
+Marks: 73 /100
+Grade: C
+Message: Good effort! Keep improving!
+
+#TEst case 3:
+Enter student name:Sanvi
+Enter marks (0-100):34
+
+📊 RESULT FOR SANVI:
+Marks: 34 /100
+Grade: F
+Message: Don't worry, try again! ❤️
+
+#Test case 4:
+Enter student name:Sanvi
+Enter marks (0-100):87
+
+📊 RESULT FOR SANVI:
+Marks: 87 /100
+Grade: B
+Message: Very good! Keep it up!Let's aim for higher👍👍
+
+#Test case 5:
+Enter student name:Sanvi
+Enter marks (0-100):45
+
+📊 RESULT FOR SANVI:
+Marks: 45 /100
+Grade: D
+Message: You passed! Don't give up!
